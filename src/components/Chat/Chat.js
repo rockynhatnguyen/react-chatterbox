@@ -18,7 +18,7 @@ const Chat = ({ location }) => {
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
     // DevEnv ENDPOINT = 'localhost:3000'
-    const ENDPOINT = 'http://chatterbox.wishfulthinking.io/';
+    const ENDPOINT = '167.172.139.212';
 
     useEffect(() => {
         const { name, room } = queryString.parse(location.search);
