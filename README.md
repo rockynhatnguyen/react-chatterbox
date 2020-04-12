@@ -1,3 +1,11 @@
+# Chatterbox
+Description: A simple React chat app that uses real-time communication with Socket.io and Express.
+
+## Tech Features
+1. React
+2. Express
+3. Socket.io
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
